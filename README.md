@@ -50,7 +50,9 @@ This project demonstrates how **Quadratic (AI-powered spreadsheet)** and **N8N (
 ---
 
 ## 📸 Project Preview
-(Add screenshot here if you want — e.g., your Quadratic sheet or n8n workflow)
+
+![Workflow Preview](workflow_image.png)
+
 
 ---
 
