@@ -21,7 +21,6 @@ This project demonstrates how AI-powered tools like **Quadratic** and **N8N** ca
 ## 📂 Repository Structure
 - `workflows/` → N8N workflow JSON exports.
 - `data/` → Sample anonymized datasets.
-- `notebook/` → Supporting Jupyter Notebooks (if any).
 - `README.md` → Project documentation.
 
 ## ▶️ How to Use
